@@ -75,6 +75,21 @@ textarea{
     width: 5%;
 }
 
+.middleCol {
+    background-color: green;
+}
+
 .submitBtn {
     border: none;
+    background-color: transparent;
+}
+
+.input {
+  border: none;
+  background-color: transparent;
+  width: 100%;
+}
+
+.red {
+  background-color: red;
 }
